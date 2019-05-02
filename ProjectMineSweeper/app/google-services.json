@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "594616508548",
+    "firebase_url": "https://projectminesweeper.firebaseio.com",
+    "project_id": "projectminesweeper",
+    "storage_bucket": "projectminesweeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594616508548:android:79cb344dbe0cb19f",
+        "android_client_info": {
+          "package_name": "com.example.cpe442.projectminesweeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594616508548-39p8p90u6nafmhf8sqlojkgdrg3did35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cpe442.projectminesweeper",
+            "certificate_hash": "a64e4648a89b213d53bbea51f09db153cfa73f7a"
+          }
+        },
+        {
+          "client_id": "594616508548-v564eoetp6s0sba0kjg5bm6k5olaj69i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cpe442.projectminesweeper",
+            "certificate_hash": "9265fb4ea10c4fb100d83f8f50db02cf4080d1cd"
+          }
+        },
+        {
+          "client_id": "594616508548-u8mfq2i1nvb3t37kpnabau52fj9fat3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cpe442.projectminesweeper",
+            "certificate_hash": "264948c4cabf62dc2185b254c25235dda3be3e9c"
+          }
+        },
+        {
+          "client_id": "594616508548-sr3br8qu0clc4m7ei2l5md5kho4akf13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBTOVXPArRzSCfT69LNJhNONzuYyDR_uk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594616508548-sr3br8qu0clc4m7ei2l5md5kho4akf13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

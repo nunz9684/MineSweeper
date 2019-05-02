@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project MineSweeper</string>
+
+    <string name="LOGO">&#xf1e2;</string>
+
+    <string name="sign_in">SIGN IN</string>
+    <string name="facebook">&#xf082; \  FACEBOOK</string>
+    <string name="google">&#xf3ab; \  GOOGLE</string>
+    <string name="play">&#xf1e2; \  LET\'s PLAY</string>
+
+    <string name="facebook_app_id">164373334370929</string>
+    <string name="fb_login_protocol_scheme">fb164373334370929</string>
+
+</resources>

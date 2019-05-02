@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/sign_in_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:text="@string/sign_in"/>
+
+
+
+    <com.google.android.gms.common.SignInButton
+        style="@style/Button_HomeActivity"
+        android:id="@+id/btn_sign_in_google"
+        android:visibility="visible"
+        android:layout_marginTop="170dp"
+        android:layout_gravity="center_horizontal"/>
+
+
+    <com.facebook.login.widget.LoginButton
+        style="@style/Button_HomeActivity"
+        android:id="@+id/btn_sign_in_facebook"
+        android:textSize="14sp"
+        android:visibility="visible"
+        android:layout_marginTop="220dp"
+        android:layout_gravity="center_horizontal"/>
+
+
+
+
+</FrameLayout>
